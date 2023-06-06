@@ -1,0 +1,33 @@
+
+.RestaurantItem {
+    
+    float: left;
+    width: 30%;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 10px;
+    
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    list-style-type: none;
+    
+    
+}
+.link{
+
+    text-decoration: none;
+    color: rgb(182, 94, 112);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+   
+}
+
+.img{
+    width: 100px;
+    height: 90px;
+}
+.RestaurantItem:hover {
+    background-color: #e0e0e0;
+}
